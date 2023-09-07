@@ -8,17 +8,17 @@ Supermarkets are dynamic, constantly adapting store layouts, product offerings, 
 
 Throughout this program, you will cultivate essential analytics competencies, encompassing:
 
-# Data Wrangling: 
+Data Wrangling: 
 Mastery in preparing and cleansing data for analysis, ensuring its accuracy and relevance.
-# Data Visualization:
+Data Visualization:
 Crafting compelling visual data representations to effectively convey insights.
-# Programming Proficiency: 
+Programming Proficiency: 
 Gaining programming skills to efficiently manipulate and analyze data.
-# Statistical Insight: 
+Statistical Insight: 
 Understanding statistical techniques to extract meaningful insights.
-# Critical Thinking:
+Critical Thinking:
 Developing the capability to think critically and make data-driven decisions.
-# Business Acumen:
+Business Acumen:
 Applying analytics to real-world business scenarios, with a focus on value generation.
 
 # Recommendations
